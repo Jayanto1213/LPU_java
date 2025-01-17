@@ -209,7 +209,7 @@ class second {
         System.out.println("Enter the number of terms: ");
         int n = sc.nextInt();
         int first = 0, second = 1;
-        System.out.println("Fibonacci Series: ");
+        System.out.println("Fibonacciiii Series: ");
         for (int i = 1; i <= n; i++) {
             System.out.print(first + " ");
             int next = first + second;
