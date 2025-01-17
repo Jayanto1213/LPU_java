@@ -11,7 +11,7 @@ class Task1 {
         }
         else{
             if(input>=2&&input<=5){
-                System.out.println("Are you serious");
+                System.out.println("you serious");
             }
             else if(input>=6&&input<=20) {
                 System.out.println("Wierd");
