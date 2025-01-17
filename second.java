@@ -1,3 +1,5 @@
+package LPU_java;
+
 import java.util.*;
 class second {
     public static void main(String[] args) {

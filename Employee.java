@@ -1,4 +1,4 @@
-package LPU;
+package LPU_java;
 import java.util.*;
 class Employee {
     private int id;
