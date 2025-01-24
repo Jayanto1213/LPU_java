@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Empluyee1 {
     Scanner sc=new Scanner(System.in);
     String make;
+
     String model;
     int year;
     //no argument constructor
